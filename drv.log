@@ -1,0 +1,26 @@
+Microsoft PnP Utility
+
+Processing inf :            iaLPSS2_GPIO2_SKL.inf
+Successfully installed the driver on a device on the system.
+Driver package added successfully.
+Published name :            oem4.inf
+
+Processing inf :            iaLPSS2_I2C_SKL.inf
+Successfully installed the driver on a device on the system.
+Driver package added successfully.
+Published name :            oem5.inf
+
+Processing inf :            iaLPSS2_SPI_SKL.inf
+Successfully installed the driver on a device on the system.
+Driver package added successfully.
+Published name :            oem6.inf
+
+Processing inf :            iaLPSS2_UART2_SKL.inf
+Successfully installed the driver on a device on the system.
+Driver package added successfully.
+Published name :            oem7.inf
+
+
+Total attempted:              4
+Number successfully imported: 4
+
